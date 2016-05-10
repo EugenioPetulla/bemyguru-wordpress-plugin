@@ -1,0 +1,3 @@
+<?php
+
+//* Silence is a golden Jegor

@@ -1,6 +1,4 @@
-# bemyguru-wordpress-plugin
-A WordPress plugin for Bemyguru platform
-
+=== Bemyguru for WordPress ===
 Contributors: codeat, iGenius
 Tags: bemyguru, badge, bemyguru badge, embed profile, widgets, widget, sidebar, guru
 Requires at least: 3.5
@@ -11,9 +9,9 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
 Place a Bemyguru's Guru Badge everywhere in you WordPress using a simple widget.
 
-## Description
+== Description ==
 
-## Installation
+== Installation ==
 
 1. Download and extract the plugin's archive.
 2. Put the extracted folder in `/wp-content/plugins`.
@@ -21,14 +19,13 @@ Place a Bemyguru's Guru Badge everywhere in you WordPress using a simple widget.
 
 Or simply install it from the WordPress Dashboard Plugins section searching for "bemyguru".
 
-## Frequently Asked Questions
+== Frequently Asked Questions ==
 
-## Screenshots
+== Screenshots ==
 
-## Changelog
+== Changelog ==
 
-### 1.0
-
+= 1.0 =
 * Feature: Guru Widget
 
-## Upgrade Notice
+== Upgrade Notice ==
