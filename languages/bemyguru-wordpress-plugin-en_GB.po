@@ -1,0 +1,56 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bemyguru WordPress Plug\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2016-05-18 19:36+0200\n"
+"PO-Revision-Date: 2016-05-18 19:36+0200\n"
+"Last-Translator: Eugenio Petullà <eugeniopetulla@yahoo.it>\n"
+"Language-Team: Eugenio Petullà - Codeat <support@codeat.co>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/includes/CMB2\n"
+"X-Poedit-SearchPathExcluded-1: includes/CPT_Core\n"
+"X-Poedit-SearchPathExcluded-2: includes/Taxonomy_Core\n"
+"X-Poedit-SearchPathExcluded-3: includes/Widgets-Helper\n"
+"X-Poedit-SearchPathExcluded-4: public/includes/requirements.php\n"
+"X-Poedit-SearchPathExcluded-5: admin/includes/"
+"cmb2_post_search_field.php\n"
+"X-Poedit-SearchPathExcluded-6: admin/includes/CPT_Columns.php\n"
+"X-Poedit-SearchPathExcluded-7: admin/includes/"
+"cmb2_user_search_field.php\n"
+"X-Poedit-SearchPathExcluded-8: node_modules\n"
+
+#: widgets.php:24
+msgid "Guru Badge"
+msgstr "Guru Badge"
+
+#: widgets.php:25
+msgid "Show your bemyguru badge"
+msgstr "Show your bemyguru badge"
+
+#: widgets.php:53
+msgid "Insert a valid bemyguru guru username"
+msgstr "Insert a valid bemyguru guru username"
+
+#: widgets.php:73
+msgid "Title:"
+msgstr "Title:"
+
+#: widgets.php:78
+msgid "Username:"
+msgstr "Username:"
+
+#: widgets.php:82
+msgid "You can find it in your public profile link."
+msgstr "You can find it in your public profile link."

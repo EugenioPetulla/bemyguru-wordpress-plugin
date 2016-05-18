@@ -50,7 +50,7 @@ class bemyguru_guru_badge extends WP_Widget {
                     echo '<div id="bemyguru_widget_box"></div><script src="http://www.bemyguru.it/widget/0.9/' . $username . '" type="text/javascript"></script>';
                 } 
                 else {
-                    echo '<span><strong>Insert a valid bemyguru guru username</strong></span>';
+                    echo '<span><strong>'. __('Insert a valid bemyguru guru username', 'bemyguru') . '</strong></span>';
                 }
                 
                 echo $after_widget;
@@ -78,7 +78,9 @@ class bemyguru_guru_badge extends WP_Widget {
                         <label for="<?php echo $this->get_field_id('username'); ?>"><?php _e( 'Username:', 'bemyguru' ); ?></label>
                         <input class="widefat" id="<?php echo $this->get_field_id('username'); ?>" name="<?php echo $this->get_field_name('username'); ?>" type="text" value="<?php echo $username; ?>">
                         <br>
-                        <small><?php _e( 'You can find it under your guru profile page', 'bemyguru' ); ?></small>
+                        <small>
+                        <?php _e( 'You can find it in your public profile link.', 'bemyguru' );
+                        echo '</br>E.G. http://www.bemyguru.it/<strong>username</strong>'; ?></small>
                 </p>
 
                 <?php
